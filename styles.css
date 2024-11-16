@@ -55,9 +55,15 @@ nav {
     text-align: center;
 }
 
+/* Estilo para el título en la sección Hero */
 .hero-text h1 {
+    font-family: 'Dancing Script', cursive; /* Aplicar fuente caligráfica */
     font-size: 4rem;
     margin-bottom: 20px;
+    text-transform: uppercase; /* Para darle un toque más audaz */
+    letter-spacing: 2px; /* Aumentar el espaciado entre las letras */
+    color: #ff7f50; /* Color vibrante */
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); /* Sombra para hacerlo más llamativo */
 }
 
 .hero-text p {
