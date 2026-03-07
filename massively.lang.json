@@ -1,0 +1,57 @@
+{
+    "partials": {
+        "menu": {
+            "label": "Menú"
+        },
+        "pagination": {
+            "prev": "Anterior",
+            "next": "Siguiente"
+        },
+        "top": {
+            "continue": "Continuar"
+        },
+        "share-buttons": {
+            "shareButtons": "Compartir"
+        }
+    },
+    "post": {
+        "publishedBy": "Por",
+        "relatedPosts": "También te puede interesar:",
+        "readMore": "Leer más",
+        "lastUpdatedDate": "Actualizado el",
+        "taggedIn": "Etiquetas:",
+        "comments": "Comentarios"
+    },
+    "page": {
+        "childPages": "Subpáginas"
+    },
+    "tags": {
+        "tagsPageTitle": "Etiquetas",
+        "description": "Colección de etiquetas",
+        "post": {
+            "1": "Artículo",
+            "default": "Artículos"
+        }
+    },
+    "author": {
+        "visitWebsite": "Visitar sitio web"
+    },
+    "error": {
+        "404": "Error 404",
+        "message-1": "Página no encontrada",
+        "message-2": "La página que buscás fue movida, eliminada o no existe. Podés volver atrás o ir directamente al inicio.",
+        "button": "Ir al inicio"
+    },
+    "socials": {
+        "twitter": "Twitter",
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "linkedIn": "LinkedIn",
+        "vimeo": "Vimeo",
+        "youtube": "YouTube",
+        "pinterest": "Pinterest",
+        "mix": "Mix",
+        "buffer": "Buffer",
+        "whatsapp": "WhatsApp"
+    }
+}
